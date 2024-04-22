@@ -1,5 +1,3 @@
-# Module_09_CHALEK409_BCL2401_B_CharlotteKeitumetse-Lekoro_JSL09-Resubmission
-
 # [JSL09] Submission: Personal Dashboard Chrome Extension
 
 You will:
